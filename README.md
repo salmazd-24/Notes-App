@@ -1,27 +1,25 @@
-# Simple-Notes-App
+# Notes-App
+Ini adalah aplikasi catatan sederhana berbasis web dengan memakai konsep CRUD (CREAT, READ, UPDATE, DELETE) dan menggunakan [ReactJs](https://react.dev/) serta [Vite](https://vitejs.dev/.
 
-Ini adalah aplikasi catatan sederhana berbasis web dengan [ReactJs](https://react.dev/).
-## Demo 
- [Notes](https://note-app-vite-three.vercel.app/)
+
 ## Features
-
 - Create Note
 - Edit Note
 - Delete Note
 - Search Notes
 - Dark-Light Mode
 
-
+## Demo
+[Notes App](https://note-crud-eight.vercel.app/)
 
 ## Installation
-
 ### Clone Project
 
 ```bash
- git clone https://github.com/Gibrand22/note-app-vite.git
+ git clone https://github.com/azmiindri13/note-crud.git
 ```
 ```bash
- cd note-app-vite
+ cd note-reactjs
 ```
 ### Install Dependensi
 ```bash
@@ -30,4 +28,3 @@ Ini adalah aplikasi catatan sederhana berbasis web dengan [ReactJs](https://reac
 ### Run development
 ```bash
  npm run dev
-```
