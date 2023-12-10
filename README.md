@@ -16,7 +16,7 @@ Ini adalah aplikasi catatan sederhana berbasis web dengan memakai konsep CRUD (C
 ### Clone Project
 
 ```bash
- git clone https://github.com/azmiindri13/note-crud.git
+ git clone https://github.com/salmazd-24/Notes-App.git
 ```
 ```bash
  cd note-reactjs
